@@ -1,0 +1,10 @@
+<gun_07.model>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB22_Comet/normal/lod0/gun_07</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.766182 -0.208232 -0.0337277</min>
+    <max>0.766182 0.241493 3.38096</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</gun_07.model>
